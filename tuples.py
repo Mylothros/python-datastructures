@@ -1,3 +1,3 @@
-x = (1, 2, 3, 4, 5)
-for i in x:
-    print(i)
+my_tuple = (1, 2, 3)
+print(my_tuple[1])
+a, b, c = my_tuple
